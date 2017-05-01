@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     boolean fStatus;
-    String btnstatus;
+    String btnstatus="Start the fast";
 
     public void startstop (View view) {
         if (fStatus==true) {
